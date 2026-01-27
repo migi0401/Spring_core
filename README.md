@@ -4,7 +4,7 @@
 
 ## 📝 Project Info
 - **Instructor**: 김영한
-- **Language**: Java 11+
+- **Language**: Java 25
 - **Framework**: Spring Boot
 - **Build Tool**: Gradle
 - **IDE**: IntelliJ IDEA
@@ -14,10 +14,10 @@
 ## 📚 Curriculum & Progress
 강의 수강 진도와 각 섹션별 핵심 내용을 정리합니다.
 
-- [ ] **Sec 1. 객체 지향 설계와 스프링**
+- [x] **Sec 1. 객체 지향 설계와 스프링**
   - 스프링의 핵심 가치와 객체 지향
   - 좋은 객체 지향 설계의 5가지 원칙 (SOLID)
-- [ ] **Sec 2. 스프링 핵심 원리 이해1 - 예제 만들기**
+- [x] **Sec 2. 스프링 핵심 원리 이해1 - 예제 만들기**
   - 비즈니스 요구사항 설계
   - 회원, 주문, 할인 도메인 개발 (순수 Java)
 - [ ] **Sec 3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용**
